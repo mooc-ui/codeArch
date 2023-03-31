@@ -1,0 +1,8 @@
+
+obj/
+*.uvgui.1
+*.uvopt
+*.lst
+*.m51
+CH549.uvgui.1
+.vscode
